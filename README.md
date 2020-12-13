@@ -9,3 +9,4 @@ Requires cv2, numpy, face_recognition, os, datetime libraries to fuction properl
 2. `cd Face-recognition/imagesBasic`
 3. Insert any image of the person to be detected.
 4. `python main.py`
+=======
